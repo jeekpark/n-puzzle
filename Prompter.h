@@ -13,4 +13,3 @@ private:
 
     char mBuffer[BUFFER_COUNT][BUFFER_STRING_LEN];
 };
-
